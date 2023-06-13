@@ -13,7 +13,7 @@
  "vulnerabilityAlerts": {
     "enabled": true,
     "labels": ["RENOVATE"],
-   "commitBody": ["This is a renovate job"],
+   "commitMessageSuffix": ["This is a renovate job"],
     "automerge": true
   },
   "osvVulnerabilityAlerts": true,
